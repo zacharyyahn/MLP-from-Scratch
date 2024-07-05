@@ -1,0 +1,1 @@
+I ran a lot of tests, and compiled all of the graphs here for my own sanity and in case I ever wanted to reference some of the (failed) trials. Especially for handwritten digits, including ALL of these in the report felt excessive. Instead, I opted to summarize the highlights and leave the rest here just in case you wanted a look. Enjoy!

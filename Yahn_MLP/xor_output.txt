@@ -1,0 +1,35 @@
+Output from the best run of the XOR task:
+
+C:\Users\zacha\Documents\UCD\Connectionism>python xor_test.py
+Completed epoch ( 100 / 3000 ), train error = 0.13199246867554007
+Completed epoch ( 200 / 3000 ), train error = 0.13297483109299157
+Completed epoch ( 300 / 3000 ), train error = 0.13401684783067236
+Completed epoch ( 400 / 3000 ), train error = 0.13236098363547152
+Completed epoch ( 500 / 3000 ), train error = 0.11647456251201575
+Completed epoch ( 600 / 3000 ), train error = 0.0779834880130576
+Completed epoch ( 700 / 3000 ), train error = 0.02752397026916031
+Completed epoch ( 800 / 3000 ), train error = 0.01312488822045492
+Completed epoch ( 900 / 3000 ), train error = 0.00846537097010664
+Completed epoch ( 1000 / 3000 ), train error = 0.006229867064576758
+Completed epoch ( 1100 / 3000 ), train error = 0.004922451128104858
+Completed epoch ( 1200 / 3000 ), train error = 0.004065495686664132
+Completed epoch ( 1300 / 3000 ), train error = 0.003460748710700517
+Completed epoch ( 1400 / 3000 ), train error = 0.0030113236216468627
+Completed epoch ( 1500 / 3000 ), train error = 0.002664295382754083
+Completed epoch ( 1600 / 3000 ), train error = 0.002388316871275301
+Completed epoch ( 1700 / 3000 ), train error = 0.00216364281684856
+Completed epoch ( 1800 / 3000 ), train error = 0.0019772185744837915
+Completed epoch ( 1900 / 3000 ), train error = 0.0018200684722136143
+Completed epoch ( 2000 / 3000 ), train error = 0.0016858186912011607
+Completed epoch ( 2100 / 3000 ), train error = 0.0015698185750243681
+Completed epoch ( 2200 / 3000 ), train error = 0.001468595439765046
+Completed epoch ( 2300 / 3000 ), train error = 0.0013795040121965046
+Completed epoch ( 2400 / 3000 ), train error = 0.0013004939966511871
+Completed epoch ( 2500 / 3000 ), train error = 0.001229951805686533
+Completed epoch ( 2600 / 3000 ), train error = 0.0011665902445600362
+Completed epoch ( 2700 / 3000 ), train error = 0.0011093700159866835
+Completed epoch ( 2800 / 3000 ), train error = 0.0010574428300111078
+Completed epoch ( 2900 / 3000 ), train error = 0.0010101094869457694
+Completed epoch ( 3000 / 3000 ), train error = 0.0009667885299792547
+
+Accuracy: 1.0 Average Error: 0.0009437365439019359
